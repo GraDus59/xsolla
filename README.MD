@@ -2,6 +2,7 @@
 ## Xsolla School 2021. Backend
 
 - [Ссылка](https://github.com/xsolla/xsolla-school-backend-2021) - Ссылка на тестовое задание
+- [Ссылка](http://dev.live-back.ru) - Ссылка на демонстрационный вариант
 
 ## Текст тестового задания
 
